@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.gfs.com	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_9_sn_EE38873E7560C593C508F6FAA39C1B73_perc_100000_ol_0_mul_1_app-3A8d276ff360135434_1
+www.gfs.com	TRUE	/	FALSE	1999999999	AuthSessionID	1c3d505cbe1ca29ae31bb524a72dd4ca
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.gfs.com/en-us">
+  <channel>
+    <title>Gordon Food Service: Latest Market Updates</title>
+    <link>https://www.gfs.com/en-us</link>
+    <description/>
+    <language>en-us</language>
+    
+    <item>
+  <title>Market Update: October 21, 2022</title>
+  <link>https://www.gfs.com/en-us/market-updates/2022/10/21</link>
+
+</item>
+<item>
+  <title>Market Update: October 14, 2022</title>
+  <link>https://www.gfs.com/en-us/market-updates/2022/10/14</link>
+
+</item>
+<item>
+  <title>Market Update: October 7, 2022</title>
+  <link>https://www.gfs.com/en-us/market-updates/2022/10/07</link>
+
+</item>
+<item>
+  <title>Market Update: September 30, 2022</title>
+  <link>https://www.gfs.com/en-us/market-updates/2022/09/30</link>
+
+</item>
+<item>
+  <title>Market Update: September 23, 2022</title>
+  <link>https://www.gfs.com/en-us/market-updates/2022/09/23</link>
+
+</item>
+
+  </channel>
+</rss>
